@@ -710,19 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rOFbn1xXhX {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rOFbn1xXhX P {
-  color: #767676;
-}
-.cid-rOFboXtkYW {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-rOFdYPMZMM .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1131,6 +1118,19 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rOFdYS0Lgz {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rOFbn1xXhX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rOFbn1xXhX P {
+  color: #767676;
+}
+.cid-rOFboXtkYW {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
