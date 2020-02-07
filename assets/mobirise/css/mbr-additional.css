@@ -3334,7 +3334,7 @@ section.lazy-placeholder:after {
   padding-bottom: 1.5rem;
 }
 .cid-rPeexEEwbY {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/800px-colourbox33061706-566x800.jpg");
 }
 .cid-rPeexEEwbY .form-control,
 .cid-rPeexEEwbY .form-control:focus {
@@ -3357,6 +3357,10 @@ section.lazy-placeholder:after {
   .cid-rPeexEEwbY .content-container {
     padding-right: 5rem;
   }
+}
+.cid-rPeexEEwbY .mbr-text,
+.cid-rPeexEEwbY .mbr-section-btn {
+  text-align: left;
 }
 .cid-rOFboXtkYW {
   padding-top: 30px;
